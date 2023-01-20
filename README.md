@@ -9,4 +9,4 @@ Converts an html code image to a scp sl translation files code image
 
 3 - Open the convertor program and then the converted html code should be copied to your clipboard.  
 
-4 - Using a text editing program other than notepad paste the code onto any line in your doors.txt translation file, each line represents the doors status - 1st line is an open button door, 2nd line is an opening one ([You can use this as a reference](https://raw.githubusercontent.com/northwood-studios/SCPSL-Translations/master/Translations/English%20(default)/Doors.txt)).
+4 - Using a text editing program other than notepad paste the code onto any line in your doors.txt translation file, each line represents the doors status - 1st line is an open button door, 3rd line is an opening one ([You can use this as a reference](https://raw.githubusercontent.com/northwood-studios/SCPSL-Translations/master/Translations/English%20(default)/Doors.txt)).
